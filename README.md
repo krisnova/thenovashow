@@ -1,2 +1,14 @@
-# dont-cross-the-streams
-Live Streaming repository for all things twitch.tv/krisnova
+```
+   _____                       _   __                     
+  / ___/__  ______  ___  _____/ | / /___ _   ______ ______
+  \__ \/ / / / __ \/ _ \/ ___/  |/ / __ \ | / / __ `/ ___/
+ ___/ / /_/ / /_/ /  __/ /  / /|  / /_/ / |/ / /_/ (__  ) 
+/____/\__,_/ .___/\___/_/  /_/ |_/\____/|___/\__,_/____/  
+          /_/                                             
+```
+
+---
+
+# Kris Nóva Live Streaming!
+
+Here is where we store the things!
