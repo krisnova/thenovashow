@@ -42,3 +42,12 @@ Good question!
 ### Anything Else?
 
 Mountains are cool :mount_fuji:
+
+
+### You're a Go expert, what's the best resource or resources to learn Go?
+
+Go Programming Language, The - Donovan and Kernighan 
+
+[The Go Playground](https://play.golang.org/)
+
+[The go Tour](https://tour.golang.org/welcome/1)
