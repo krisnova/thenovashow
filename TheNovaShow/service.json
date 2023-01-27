@@ -1,1 +1,1 @@
-{"settings":{"bwtest":false,"key":"1234","server":"rtmp://localhost:1935/twinx","use_auth":false},"type":"rtmp_custom"}
+{"settings":{"bwtest":false,"key":"live_108589908_sUeLAJRM6QJZy4kI5Q3Cg2jDvX2cSk","server":"auto","service":"Twitch"},"type":"rtmp_common"}
